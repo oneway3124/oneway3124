@@ -1,4 +1,8 @@
-### Hi there 👋
+
+wang.david.wei is a Phd student in Computer Scince at SCU. 
+
+
+Website: https://oneway3124.github.io/
 
 <!--
 **oneway3124/oneway3124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
