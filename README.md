@@ -1,5 +1,5 @@
 
-wang.david.wei is a Phd student in Computer Scince at SCU. 
+wang.david.wei is studying for his PhD at School of Computer Science, Sichuan University, China. His research interests include indoor localization, non-intrusive load monitoring.
 
 
 Website: https://oneway3124.github.io/
