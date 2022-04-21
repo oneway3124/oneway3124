@@ -1,6 +1,6 @@
 
 wang.david.wei has received his PhD degree majoring in Computer Science at School of Computer Science, Sichuan University, China in 2022.
-He is now a lecturer in Chengdu University of Information Technology at School of Control Engineering.
+He is now a lecturer in Chengdu University of Information Technology at School of Automation.
 His research interests include non-intrusive load monitoring and edge computing.
 
 
