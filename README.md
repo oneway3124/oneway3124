@@ -3,10 +3,6 @@ Wang.David.Wei has received his PhD degree majoring in Computer Science at Schoo
 
 Website: https://oneway3124.github.io/
 
-https://orcid.org/0000-0002-4997-2068
-
-https://scholar.google.com/citations?user=QWZUnsUAAAAJ&hl=en
-
 
 
 <!--
