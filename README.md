@@ -1,7 +1,9 @@
 
 Wang.David.Wei has received his PhD degree majoring in Computer Science at School of Computer Science, Sichuan University, China in 2021. He is conducting his postdoctoral research at University of Electronic Science and Technology of China and Chongqing Industrial Big Data Innovation Center. He is also now a lecturer in Chengdu University of Information Technology at School of Automation. His research interests include pattern recognition, machine learning, computer vision, 3D objection detection, point cloud processing, non-intrusive load monitoring and edge computing.
 
-Website: https://oneway3124.github.io/
+Website: 
+http://cdwangwei.site/
+https://oneway3124.github.io/
 
 
 
