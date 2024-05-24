@@ -1,6 +1,5 @@
 
-Wang.David.Wei has received his PhD degree majoring in Computer Science at School of Computer Science, Sichuan University, China in 2021. He is conducting his postdoctoral research at University of Electronic Science and Technology of China and Chongqing Industrial Big Data Innovation Center. He is also now a lecturer in Chengdu University of Information Technology at School of Automation. His research interests include pattern recognition, machine learning, computer vision, 3D objection detection, point cloud processing, non-intrusive load monitoring and edge computing.
-
+国家工程实验室特聘研究员、四川大学博士、电子科技大学博士后、机器人工程专业专任教师，具备15年国际知名企业的智能软件算法产品研发管理经验。参与国防基础科研核科学挑战专题项目、保密通信国防科技重点实验室项目、国家自然科学基金面上项目、四川省重点研发项目等10余项科研项目；主持工业大数据应用技术国家工程实验室项目等4项纵横向课题。目前已发表SCI论文14篇，取得授权专利6项。主要研究方向包括工业数据挖掘、3D视觉感知等人工智能技术，并积极推进该领域的技术转移转化工作。
 Website: 
 
 http://cdwangwei.site/
